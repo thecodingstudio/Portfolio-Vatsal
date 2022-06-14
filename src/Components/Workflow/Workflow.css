@@ -1,0 +1,102 @@
+.work-flow{
+    margin-bottom: 12rem;
+}
+.work-title{
+    text-align: center;
+}
+
+.work-body{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 121.1rem;
+    margin-left: 15rem;
+    margin-top: 3rem;
+    margin-right: 15rem; 
+}
+.flow{
+    width: 10rem;
+    height: 8rem;
+    border-radius: 0.8rem;
+    background: black;
+    padding: 1.8rem 2rem 2.2rem;
+    margin-bottom: 2.4rem;
+    cursor: pointer;
+    color: white;
+}
+.flow:hover{
+    background-color: #0fb;
+    cursor: pointer;
+    color: black;
+}
+
+.flow-title{
+    margin-top: 1rem;
+}
+.flow-desc{
+    margin-top: 1rem;
+}
+
+@media screen and (max-width: 375px){
+    .work-body{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0rem;
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 376px) and (max-width: 400px){
+    .work-body{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0rem;
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 401px) and (max-width: 600px){
+    .work-body{
+        flex-direction: column;
+        align-items: center;
+        margin-left: 0rem;
+        width: 100%;
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 800px){
+    .work-body{
+        display: flex;
+        align-items: center;
+        margin-left: 0rem;
+        width: 100%;
+        justify-content: center;
+        gap: 1rem;
+    }
+}
+
+@media screen and (min-width: 801px) and (max-width: 900px){
+    .work-body{
+        display: flex;
+        align-items: center;
+        margin-left: 0rem;
+        width: 100%;
+        justify-content: center;
+        gap: 1rem;
+    }
+}
+
+@media screen and (min-width: 901px){
+    .work-body{
+        display: flex;
+        align-items: center;
+        margin-left: 0rem;
+        width: 100%;
+        justify-content: center;
+        gap: 1rem;
+    }
+}
