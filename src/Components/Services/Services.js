@@ -53,7 +53,7 @@ const Services = () => {
                         Develop and Design Rest APIs
                         </div>
                         <div className="menu-desc">
-                        I use various technologies to develop backend like NodeJS and GoLang for website, mobile application and desktop software.
+                        I use various technologies to develop backend like JavaScript, TypeScript and Nodejs for website, mobile application and desktop software.
                         </div>
                         <div className='bottem-linee'>
                         </div>

@@ -48,7 +48,7 @@ const AboutUs = () => {
                         I am passionate about leveraging my diverse backgrounds to decipher challenging problems and create delightful experiences. I honed my skills at web development, technical writing, product design.
                         </p>
                         <p className='text-title'>
-                        I handle Backend of desktop-websites and mobile-app with GoLang and Node. I have top skills in using design database in MySQL, MongoDB and DynamoDB.
+                        I handle Backend of desktop-websites and mobile-app with JavaScript, TypeScript and Nodejs. I have top skills in using design database in MySQL, MongoDB and DynamoDB.
                         </p>
                         <p className='text-title'>
                         Being a diligent, hardworking and result oriented developer, I always work towards achieving best result on each project I lay my hands on.
