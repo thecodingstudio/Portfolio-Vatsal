@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Vatsal/static/css/main.01d2d077.css",
-    "main.js": "/Portfolio-Vatsal/static/js/main.4c6e0a55.js",
+    "main.js": "/Portfolio-Vatsal/static/js/main.af172893.js",
     "static/js/787.b9817c22.chunk.js": "/Portfolio-Vatsal/static/js/787.b9817c22.chunk.js",
     "static/media/V3.jpg": "/Portfolio-Vatsal/static/media/V3.a0923ca3bffa050ec99a.jpg",
     "static/media/VResume.pdf": "/Portfolio-Vatsal/static/media/VResume.b88a492dbbf12ed085fe.pdf",
@@ -10,11 +10,11 @@
     "static/media/crown.png": "/Portfolio-Vatsal/static/media/crown.dbe416beae9b49b842ab.png",
     "index.html": "/Portfolio-Vatsal/index.html",
     "main.01d2d077.css.map": "/Portfolio-Vatsal/static/css/main.01d2d077.css.map",
-    "main.4c6e0a55.js.map": "/Portfolio-Vatsal/static/js/main.4c6e0a55.js.map",
+    "main.af172893.js.map": "/Portfolio-Vatsal/static/js/main.af172893.js.map",
     "787.b9817c22.chunk.js.map": "/Portfolio-Vatsal/static/js/787.b9817c22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.01d2d077.css",
-    "static/js/main.4c6e0a55.js"
+    "static/js/main.af172893.js"
   ]
 }
